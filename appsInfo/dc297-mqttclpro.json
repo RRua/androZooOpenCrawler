@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://api.github.com/repos/dc297/mqttclpro/releases/8617782",
+    "assets_url": "https://api.github.com/repos/dc297/mqttclpro/releases/8617782/assets",
+    "upload_url": "https://uploads.github.com/repos/dc297/mqttclpro/releases/8617782/assets{?name,label}",
+    "html_url": "https://github.com/dc297/mqttclpro/releases/tag/4.4.1",
+    "id": 8617782,
+    "node_id": "MDc6UmVsZWFzZTg2MTc3ODI=",
+    "tag_name": "4.4.1",
+    "target_commitish": "multiple_brokers",
+    "name": "",
+    "draft": false,
+    "author": {
+      "login": "dc297",
+      "id": 3163579,
+      "node_id": "MDQ6VXNlcjMxNjM1Nzk=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3163579?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dc297",
+      "html_url": "https://github.com/dc297",
+      "followers_url": "https://api.github.com/users/dc297/followers",
+      "following_url": "https://api.github.com/users/dc297/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dc297/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dc297/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dc297/subscriptions",
+      "organizations_url": "https://api.github.com/users/dc297/orgs",
+      "repos_url": "https://api.github.com/users/dc297/repos",
+      "events_url": "https://api.github.com/users/dc297/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dc297/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2017-11-22T11:05:58Z",
+    "published_at": "2017-11-22T11:07:57Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/dc297/mqttclpro/tarball/4.4.1",
+    "zipball_url": "https://api.github.com/repos/dc297/mqttclpro/zipball/4.4.1",
+    "body": ""
+  }
+]

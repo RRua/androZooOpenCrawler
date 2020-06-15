@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://api.github.com/repos/haripo/rensim/releases/6537376",
+    "assets_url": "https://api.github.com/repos/haripo/rensim/releases/6537376/assets",
+    "upload_url": "https://uploads.github.com/repos/haripo/rensim/releases/6537376/assets{?name,label}",
+    "html_url": "https://github.com/haripo/rensim/releases/tag/v0.0.1",
+    "id": 6537376,
+    "node_id": "MDc6UmVsZWFzZTY1MzczNzY=",
+    "tag_name": "v0.0.1",
+    "target_commitish": "master",
+    "name": "Pre-alpha",
+    "draft": false,
+    "author": {
+      "login": "haripo",
+      "id": 1092699,
+      "node_id": "MDQ6VXNlcjEwOTI2OTk=",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1092699?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/haripo",
+      "html_url": "https://github.com/haripo",
+      "followers_url": "https://api.github.com/users/haripo/followers",
+      "following_url": "https://api.github.com/users/haripo/following{/other_user}",
+      "gists_url": "https://api.github.com/users/haripo/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/haripo/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/haripo/subscriptions",
+      "organizations_url": "https://api.github.com/users/haripo/orgs",
+      "repos_url": "https://api.github.com/users/haripo/repos",
+      "events_url": "https://api.github.com/users/haripo/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/haripo/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2017-05-29T20:03:24Z",
+    "published_at": "2017-05-29T20:06:29Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/haripo/rensim/tarball/v0.0.1",
+    "zipball_url": "https://api.github.com/repos/haripo/rensim/zipball/v0.0.1",
+    "body": "First release version."
+  }
+]

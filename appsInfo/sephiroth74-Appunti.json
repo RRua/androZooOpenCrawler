@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://api.github.com/repos/sephiroth74/Appunti/releases/20155128",
+    "assets_url": "https://api.github.com/repos/sephiroth74/Appunti/releases/20155128/assets",
+    "upload_url": "https://uploads.github.com/repos/sephiroth74/Appunti/releases/20155128/assets{?name,label}",
+    "html_url": "https://github.com/sephiroth74/Appunti/releases/tag/release-1.3.7",
+    "id": 20155128,
+    "node_id": "MDc6UmVsZWFzZTIwMTU1MTI4",
+    "tag_name": "release-1.3.7",
+    "target_commitish": "master",
+    "name": "release-1.3.7",
+    "draft": false,
+    "author": {
+      "login": "sephiroth74",
+      "id": 823858,
+      "node_id": "MDQ6VXNlcjgyMzg1OA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/823858?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sephiroth74",
+      "html_url": "https://github.com/sephiroth74",
+      "followers_url": "https://api.github.com/users/sephiroth74/followers",
+      "following_url": "https://api.github.com/users/sephiroth74/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sephiroth74/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sephiroth74/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sephiroth74/subscriptions",
+      "organizations_url": "https://api.github.com/users/sephiroth74/orgs",
+      "repos_url": "https://api.github.com/users/sephiroth74/repos",
+      "events_url": "https://api.github.com/users/sephiroth74/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sephiroth74/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2019-09-21T08:49:55Z",
+    "published_at": "2019-09-21T08:50:25Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/sephiroth74/Appunti/tarball/release-1.3.7",
+    "zipball_url": "https://api.github.com/repos/sephiroth74/Appunti/zipball/release-1.3.7",
+    "body": ""
+  }
+]

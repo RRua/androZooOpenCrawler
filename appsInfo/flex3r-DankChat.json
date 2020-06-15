@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://api.github.com/repos/flex3r/DankChat/releases/20584592",
+    "assets_url": "https://api.github.com/repos/flex3r/DankChat/releases/20584592/assets",
+    "upload_url": "https://uploads.github.com/repos/flex3r/DankChat/releases/20584592/assets{?name,label}",
+    "html_url": "https://github.com/flex3r/DankChat/releases/tag/v1.9.6",
+    "id": 20584592,
+    "node_id": "MDc6UmVsZWFzZTIwNTg0NTky",
+    "tag_name": "v1.9.6",
+    "target_commitish": "master",
+    "name": "F-Droid",
+    "draft": false,
+    "author": {
+      "login": "flex3r",
+      "id": 10165657,
+      "node_id": "MDQ6VXNlcjEwMTY1NjU3",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10165657?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/flex3r",
+      "html_url": "https://github.com/flex3r",
+      "followers_url": "https://api.github.com/users/flex3r/followers",
+      "following_url": "https://api.github.com/users/flex3r/following{/other_user}",
+      "gists_url": "https://api.github.com/users/flex3r/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/flex3r/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/flex3r/subscriptions",
+      "organizations_url": "https://api.github.com/users/flex3r/orgs",
+      "repos_url": "https://api.github.com/users/flex3r/repos",
+      "events_url": "https://api.github.com/users/flex3r/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/flex3r/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2020-05-16T15:32:59Z",
+    "published_at": "2019-10-09T15:57:15Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/flex3r/DankChat/tarball/v1.9.6",
+    "zipball_url": "https://api.github.com/repos/flex3r/DankChat/zipball/v1.9.6",
+    "body": ""
+  }
+]

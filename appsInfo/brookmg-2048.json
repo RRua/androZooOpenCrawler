@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://api.github.com/repos/brookmg/2048/releases/22955476",
+    "assets_url": "https://api.github.com/repos/brookmg/2048/releases/22955476/assets",
+    "upload_url": "https://uploads.github.com/repos/brookmg/2048/releases/22955476/assets{?name,label}",
+    "html_url": "https://github.com/brookmg/2048/releases/tag/v0.1.1",
+    "id": 22955476,
+    "node_id": "MDc6UmVsZWFzZTIyOTU1NDc2",
+    "tag_name": "v0.1.1",
+    "target_commitish": "master",
+    "name": "0.1.1_RESET",
+    "draft": false,
+    "author": {
+      "login": "brookmg",
+      "id": 7487888,
+      "node_id": "MDQ6VXNlcjc0ODc4ODg=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7487888?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/brookmg",
+      "html_url": "https://github.com/brookmg",
+      "followers_url": "https://api.github.com/users/brookmg/followers",
+      "following_url": "https://api.github.com/users/brookmg/following{/other_user}",
+      "gists_url": "https://api.github.com/users/brookmg/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/brookmg/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/brookmg/subscriptions",
+      "organizations_url": "https://api.github.com/users/brookmg/orgs",
+      "repos_url": "https://api.github.com/users/brookmg/repos",
+      "events_url": "https://api.github.com/users/brookmg/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/brookmg/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2020-01-18T13:50:50Z",
+    "published_at": "2020-01-19T11:30:43Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/brookmg/2048/tarball/v0.1.1",
+    "zipball_url": "https://api.github.com/repos/brookmg/2048/zipball/v0.1.1",
+    "body": "`basic stuff 👇🏼`\r\n- Back to the beginning\r\n- Initial release ( after the fork )\r\n- Dark mode & green`ish` vibes\r\n- Save state using a button \r\n- Change the theme with a button"
+  }
+]

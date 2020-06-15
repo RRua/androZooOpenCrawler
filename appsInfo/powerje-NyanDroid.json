@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://api.github.com/repos/powerje/NyanDroid/releases/17598019",
+    "assets_url": "https://api.github.com/repos/powerje/NyanDroid/releases/17598019/assets",
+    "upload_url": "https://uploads.github.com/repos/powerje/NyanDroid/releases/17598019/assets{?name,label}",
+    "html_url": "https://github.com/powerje/NyanDroid/releases/tag/2.0.3",
+    "id": 17598019,
+    "node_id": "MDc6UmVsZWFzZTE3NTk4MDE5",
+    "tag_name": "2.0.3",
+    "target_commitish": "master",
+    "name": "",
+    "draft": false,
+    "author": {
+      "login": "powerje",
+      "id": 481245,
+      "node_id": "MDQ6VXNlcjQ4MTI0NQ==",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/481245?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/powerje",
+      "html_url": "https://github.com/powerje",
+      "followers_url": "https://api.github.com/users/powerje/followers",
+      "following_url": "https://api.github.com/users/powerje/following{/other_user}",
+      "gists_url": "https://api.github.com/users/powerje/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/powerje/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/powerje/subscriptions",
+      "organizations_url": "https://api.github.com/users/powerje/orgs",
+      "repos_url": "https://api.github.com/users/powerje/repos",
+      "events_url": "https://api.github.com/users/powerje/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/powerje/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2019-05-27T02:49:18Z",
+    "published_at": "2019-05-27T02:55:34Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/powerje/NyanDroid/tarball/2.0.3",
+    "zipball_url": "https://api.github.com/repos/powerje/NyanDroid/zipball/2.0.3",
+    "body": "Unified animation handling into single class"
+  }
+]
