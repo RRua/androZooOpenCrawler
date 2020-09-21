@@ -27,7 +27,7 @@ function downloadGithubReleases(){
 
 
 index=0
-for i in $( tail -n +2  androzooopen.csv | cut -f1 -f2 -f6 -f12 -f13 -d, ); do
+for i in $( tail -n +2  androzooopen.csv | cut -f1,2,6,12,13 -d, ); do
 	package=$(echo $i | cut -f4 -d,)
 
 	nm=$(grep "$package" security_packages.log | wc -l )
