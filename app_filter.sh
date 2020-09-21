@@ -1,11 +1,11 @@
 # !/bin/bash
 
-user_name="" # place here your github id #"RRua"
+user_name=$(head -1 github_id.txt ) # place here your github id #"RRua"
 min_releases=1
 
-test -n "$user_name" && "please specify your github id "
+test -z "$user_name" && echo "please specify your github id "
 test  ! -f oauth_token.txt && echo "github oauth token not found. please generate oauth token (https://help.github.com/pt/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) and place it in oauth_token.txt file" && exit 2
-auth_len=$(wc -l oauth_token)
+auth_len=$(echo "oauth_token.txt" | wc -l )
 test  "$auth_len" -eq "0"  && echo "github oauth token not found. please generate oauth token (https://help.github.com/pt/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) and place it in oauth_token.txt file" && exit 2
 
 
