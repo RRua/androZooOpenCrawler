@@ -1,10 +1,10 @@
 {
     "github": {
-        "username": "RRua",
-        "oauth_token": "aaa"
+        "username": "RRua"
     },
     "output_dir": "out",
     "input_file": "in/androzooopen.csv",
+    "releases_per_app_to_download" : 1,
     "filters": {
         "num_releases" : {
             "min" : 3
