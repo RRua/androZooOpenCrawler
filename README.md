@@ -1,4 +1,4 @@
-# androZooOpenCrawler
+# AndroZooOpenCrawler
 
 Crawler to extract Android Apps' code and related information contained in the AndroZooOpen[1] from Open Source Repositories.
 
