@@ -1,0 +1,19 @@
+{
+    "github": {
+        "username": "RRua",
+        "oauth_token": "aaa"
+    },
+    "output_dir": "out",
+    "input_file": "in/androzooopen.csv",
+    "filters": {
+        "num_releases" : {
+            "min" : 3
+        },
+        "on_googleplay": {
+            "value": "Yes"
+        },
+        "data_source": {
+            "value": "github"
+        }
+    }
+}
